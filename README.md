@@ -1,2 +1,2 @@
-# test2
+# extraordinary plants repository
 monstera deliciosa statistics
